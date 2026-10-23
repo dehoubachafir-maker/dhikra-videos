@@ -1,0 +1,54 @@
+[
+  {
+    "id": "55_orbits",
+    "refs": [
+      "21:33"
+    ],
+    "ref_label": "Al-Anbiya (21), verset 33",
+    "french": "Et c'est Lui qui a créé la nuit et le jour, le soleil et la lune; chacun voguant dans une orbite.",
+    "arabic_uthmani": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ فِى فَلَكٍۢ يَسْبَحُونَ",
+    "arabic_simple": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ"
+  },
+  {
+    "id": "56_moon_phases",
+    "refs": [
+      "36:39"
+    ],
+    "ref_label": "Ya-Sin (36), verset 39",
+    "french": "Et la lune, Nous lui avons déterminé des phases jusqu'à ce qu'elle devienne comme la palme vieillie.",
+    "arabic_uthmani": "وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+    "arabic_simple": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْجُونِ الْقَدِيمِ"
+  },
+  {
+    "id": "57_lightning",
+    "refs": [
+      "13:12"
+    ],
+    "ref_label": "Ar-Ra'd (13), verset 12",
+    "french": "C'est lui qui vous fait voir l'éclair [qui vous inspire] crainte et espoir; et Il crée les nuages lourds.",
+    "arabic_uthmani": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًۭا وَطَمَعًۭا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+    "arabic_simple": "هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ"
+  },
+  {
+    "id": "58_earth_mountains",
+    "refs": [
+      "78:6",
+      "78:7"
+    ],
+    "ref_label": "An-Naba (78), versets 6-7",
+    "french": "N'avons-Nous pas fait de la terre une couche? et (placé) les montagnes comme des piquets?",
+    "arabic_uthmani": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًۭا وَٱلْجِبَالَ أَوْتَادًۭا",
+    "arabic_simple": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا وَالْجِبَالَ أَوْتَادًا"
+  },
+  {
+    "id": "59_two_seas",
+    "refs": [
+      "55:19",
+      "55:20"
+    ],
+    "ref_label": "Ar-Rahman (55), versets 19-20",
+    "french": "Il a donné libre cours aux deux mers pour se rencontrer; il y a entre elles une barrière qu'elles ne dépassent pas.",
+    "arabic_uthmani": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ",
+    "arabic_simple": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ"
+  }
+]
