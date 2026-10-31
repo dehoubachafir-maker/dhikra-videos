@@ -105,9 +105,17 @@
   }
  ],
  "video": {
-  "type": "vidéo éducative E1",
+  "type": "vidéo éducative E1 (animation 2D, sans voix off)",
   "slug": "sidq",
-  "sujet": "Sahîh al-Bukhârî 6094 expliqué (la véracité mène à la bonté…)",
-  "statut": "rendu en cours"
+  "sujet": "Sahîh al-Bukhârî 6094 expliqué : la véracité mène à la bonté et au Paradis, le mensonge à la perversion et au Feu",
+  "direction": "Les deux chemins (carrefour au crépuscule, lampe dans une niche, chemin de lumière, ravin d'orage, schéma encre et or, aube, carte étoilée) ; Amiri + Lora + Cinzel",
+  "duree": 66.5,
+  "fichier": "Dhikra_2026-10-31_video_sidq_bukhari-6094.mp4",
+  "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/v-2026-10-31/Dhikra_2026-10-31_video_sidq_bukhari-6094.mp4",
+  "son": "ambiance discrète (vent, pluie dans le ravin) ; aucun verset affiché donc aucune récitation ; aucune musique, aucune voix",
+  "V1": "https://sunnah.com/bukhari:6094",
+  "V2": "https://dorar.net/hadith/sharh/25555 (Bukhârî 6094 [صحيح] + commentaire)",
+  "V3": "1er passage NON CONFORME (temps de lecture, 14 puis 13 mots, référence dorar 133016) → corrigé, re-vérifié ; écran final de 12 mots",
+  "statut": "programmée 2026-10-31 19:00 YouTube + TikTok, id Metricool 411939828 (PENDING)"
  }
 }
