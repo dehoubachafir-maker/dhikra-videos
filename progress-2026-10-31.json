@@ -1,0 +1,71 @@
+{
+ "date": "2026-10-31",
+ "pieces": [
+  {
+   "type": "verset animé",
+   "slug": "duha",
+   "reference": "Ad-Duhâ (93), versets 1 à 5",
+   "arabe": [
+    "وَالضُّحَىٰ ﴿١﴾ وَاللَّيْلِ إِذَا سَجَىٰ ﴿٢﴾ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ﴿٣﴾ وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ ﴿٤﴾ وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ ﴿٥﴾"
+   ],
+   "traduction": "Par le Jour Montant ! Et par la nuit quand elle couvre tout ! Ton Seigneur ne t’a ni abandonné, ni détesté. La vie dernière t’est, certes, meilleure que la vie présente. Ton Seigneur t’accordera certes [Ses faveurs], et alors tu seras satisfait.",
+   "direction": "Duhâ, l'aube dorée sur les dunes (nuit → jour, soleil levant, rayons, sable, oiseaux) ; Scheherazade New + Playfair italique + Marcellus",
+   "fichier": "Dhikra_2026-10-31_1_duha_93-1-5.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-10-31/Dhikra_2026-10-31_1_duha_93-1-5.mp4",
+   "recitation": "al-Afasy everyayah 093001-093005",
+   "V1": "https://quranenc.com/en/browse/french_hameedullah/93 (V1 : Hamidullah + arabe, versets 1-5, lus le 31/10/2026 via sous-agent)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/93.json + ara-quransimple/93.json, versets 1-5",
+   "V3": "conforme (sous-agent, 31/10)",
+   "statut": "programmée 2026-10-31 08:00 id Metricool 411927695 (PENDING)"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "frere",
+   "reference": "Sahîh al-Bukhârî 13",
+   "arabe": [
+    "لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ"
+   ],
+   "traduction": "« Aucun de vous n’a [vraiment] la foi tant qu’il n’aime pas pour son frère ce qu’il aime pour lui-même. »",
+   "direction": "Papier découpé turquoise, deux oliviers aux feuillages mêlés, soleil corail ; Amiri + EB Garamond italique + Cormorant SC",
+   "fichier": "Dhikra_2026-10-31_3_hadith_frere_bukhari-13.jpg (+ .png)",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-10-31/Dhikra_2026-10-31_3_hadith_frere_bukhari-13.jpg",
+   "V1": "https://sunnah.com/bukhari:13 (Kitâb al-Îmân, bâb : مِنَ الإِيمَانِ أَنْ يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ ; d'après Anas)",
+   "V2": "https://dorar.net/hadith/sharh/7326 — الراوي : أنس بن مالك | المحدث : البخاري | المصدر : صحيح البخاري | الصفحة أو الرقم: 13 | خلاصة حكم المحدث : [صحيح] ; التخريج : أخرجه مسلم (45) باختلاف يسير",
+   "V3": "conforme (sous-agent, 31/10)",
+   "statut": "programmée 2026-10-31 11:00 id Metricool 411927704 (PENDING)"
+  },
+  {
+   "type": "verset animé",
+   "slug": "ala",
+   "reference": "Al-A'lâ (87), versets 1 à 5",
+   "arabe": [
+    "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى ﴿١﴾ الَّذِي خَلَقَ فَسَوَّىٰ ﴿٢﴾ وَالَّذِي قَدَّرَ فَهَدَىٰ ﴿٣﴾ وَالَّذِي أَخْرَجَ الْمَرْعَىٰ ﴿٤﴾ فَجَعَلَهُ غُثَاءً أَحْوَىٰ ﴿٥﴾"
+   ],
+   "traduction": "Glorifie le nom de ton Seigneur, le Très Haut, Celui Qui a créé et agencé harmonieusement, qui a décrété et guidé, et qui a fait pousser le pâturage, et en a fait ensuite un foin sombre.",
+   "direction": "Le pâturage : graines qui germent, herbe qui ondule puis devient foin sombre ; carte papier crème ; Noto Naskh + Lora italique + Josefin Sans",
+   "fichier": "Dhikra_2026-10-31_2_ala_87-1-5.mp4",
+   "recitation": "al-Afasy everyayah 087001-087005",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/87 (V1 : Hamidullah + arabe, versets 1-5, lus le 31/10/2026 via sous-agent)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/87.json + ara-quransimple/87.json, versets 1-5",
+   "V3": "conforme (sous-agent, 31/10)",
+   "statut": "vérifiée, rendu final en cours"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "sourire",
+   "reference": "Sahîh Muslim 2626",
+   "arabe": [
+    "لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا",
+    "وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ"
+   ],
+   "traduction": "« Ne méprise rien du bien, ne serait-ce que de rencontrer ton frère avec un visage souriant. »",
+   "direction": "Vitrail lumineux (rosace à 8 branches, lapis, rubis, ambre, émeraude) ; Amiri + Cormorant Infant italique + Philosopher",
+   "fichier": "Dhikra_2026-10-31_4_hadith_sourire_muslim-2626.jpg (+ .png)",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-10-31/Dhikra_2026-10-31_4_hadith_sourire_muslim-2626.jpg",
+   "V1": "https://sunnah.com/muslim:2626 (Kitâb al-Birr wa-s-Sila, bâb اسْتِحْبَابِ طَلاَقَةِ الْوَجْهِ عِنْدَ اللِّقَاءِ ; d'après Abû Dharr)",
+   "V2": "https://dorar.net/hadith/sharh/17589 — الراوي : أبو ذر الغفاري | المحدث : مسلم | المصدر : صحيح مسلم | الصفحة أو الرقم: 2626 | خلاصة حكم المحدث : [صحيح] (V3 : page dorar en erreur à la relecture ; numéro confirmé par sunnah.com)",
+   "V3": "conforme (sous-agent, 31/10)",
+   "statut": "programmée 2026-10-31 15:00 id Metricool 411927710 (PENDING)"
+  }
+ ]
+}
