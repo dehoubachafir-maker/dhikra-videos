@@ -48,7 +48,8 @@
    "V1": "https://quranenc.com/fr/browse/french_hameedullah/87 (V1 : Hamidullah + arabe, versets 1-5, lus le 31/10/2026 via sous-agent)",
    "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/87.json + ara-quransimple/87.json, versets 1-5",
    "V3": "conforme (sous-agent, 31/10)",
-   "statut": "vérifiée, rendu final en cours"
+   "statut": "programmée 2026-10-31 13:00 id Metricool 411930850 (PENDING)",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-10-31/Dhikra_2026-10-31_2_ala_87-1-5.mp4"
   },
   {
    "type": "hadith image fixe",
@@ -66,6 +67,47 @@
    "V2": "https://dorar.net/hadith/sharh/17589 — الراوي : أبو ذر الغفاري | المحدث : مسلم | المصدر : صحيح مسلم | الصفحة أو الرقم: 2626 | خلاصة حكم المحدث : [صحيح] (V3 : page dorar en erreur à la relecture ; numéro confirmé par sunnah.com)",
    "V3": "conforme (sous-agent, 31/10)",
    "statut": "programmée 2026-10-31 15:00 id Metricool 411927710 (PENDING)"
+  },
+  {
+   "type": "verset animé",
+   "slug": "rahman",
+   "reference": "Ar-Rahmân (55), versets 1 à 4",
+   "arabe": [
+    "الرَّحْمَٰنُ ﴿١﴾ عَلَّمَ الْقُرْآنَ ﴿٢﴾",
+    "خَلَقَ الْإِنْسَانَ ﴿٣﴾ عَلَّمَهُ الْبَيَانَ ﴿٤﴾"
+   ],
+   "traduction": "Le Tout Miséricordieux. Il a enseigné le Coran. Il a créé l’homme. Il lui a appris à s’exprimer clairement.",
+   "direction": "Enluminure de manuscrit : parchemin, marge lapis et or, shamsa qui se construit pétale par pétale, rinceaux, reflet sur l'or ; carte papier lapis ; Amiri + Playfair Display + Cormorant SC",
+   "fichier": "Dhikra_2026-10-31_5_rahman_55-1-4.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-10-31/Dhikra_2026-10-31_5_rahman_55-1-4.mp4",
+   "recitation": "al-Afasy everyayah 055001, 055002, 055003, 055004",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/55 (V1 : Hamidullah + arabe, versets 1-4, lus le 31/10/2026 via sous-agent)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/55.json + ara-quransimple/55.json, versets 1-4",
+   "V3": "conforme (sous-agent, 31/10)",
+   "statut": "programmée 2026-10-31 17:00 id Metricool 411931835 (PENDING)"
+  },
+  {
+   "type": "verset animé",
+   "slug": "mulk",
+   "reference": "Al-Mulk (67), versets 1 et 2",
+   "arabe": [
+    "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿١﴾ الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًاۚ وَهُوَ الْعَزِيزُ الْغَفُورُ ﴿٢﴾"
+   ],
+   "traduction": "Béni soit celui dans la main de qui est la royauté, et Il est Omnipotent. Celui qui a créé la mort et la vie afin de vous éprouver (et de savoir) qui de vous est le meilleur en œuvre, et c’est Lui le Puissant, le Pardonneur.",
+   "direction": "Le cadran solaire : ombre du gnomon qui tourne du matin au soir, cyprès, feuilles qui tombent ; Scheherazade New Medium + Cormorant italique + Montserrat",
+   "fichier": "Dhikra_2026-10-31_6_mulk_67-1-2.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-10-31/Dhikra_2026-10-31_6_mulk_67-1-2.mp4",
+   "recitation": "al-Afasy everyayah 067001, 067002",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/67 (V1 : Hamidullah + arabe, versets 1-2, lus le 31/10/2026 via sous-agent)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/67.json + ara-quransimple/67.json, versets 1-2",
+   "V3": "conforme (sous-agent, 31/10)",
+   "statut": "programmée 2026-10-31 21:00 id Metricool 411931840 (PENDING)"
   }
- ]
+ ],
+ "video": {
+  "type": "vidéo éducative E1",
+  "slug": "sidq",
+  "sujet": "Sahîh al-Bukhârî 6094 expliqué (la véracité mène à la bonté…)",
+  "statut": "rendu en cours"
+ }
 }
