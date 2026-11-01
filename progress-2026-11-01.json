@@ -50,6 +50,22 @@
    "V3": "conforme (sous-agent, 01/11)",
    "statut": "programmée 2026-11-01 13:00 id Metricool 412684638 (PENDING)",
    "recitation": "al-Afasy everyayah 113001-113005"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "yusr",
+   "reference": "Sahîh al-Bukhârî 69",
+   "arabe": [
+    "يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا"
+   ],
+   "traduction": "« Facilitez et ne rendez pas les choses difficiles, annoncez la bonne nouvelle et ne faites pas fuir. »",
+   "direction": "Lavis à l'encre, minimalisme japonisant (washi, montagnes en lavis, soleil vermillon, branche de prunier) ; Scheherazade New Bold + Spectral italique + Italiana",
+   "fichier": "Dhikra_2026-11-01_2_hadith_yusr_bukhari-69.jpg (+ .png)",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-01/Dhikra_2026-11-01_2_hadith_yusr_bukhari-69.jpg",
+   "V1": "https://sunnah.com/bukhari:69 (lu via https://sunnah.com/bukhari/3/11 ; Kitâb al-'Ilm, bâb : مَا كَانَ النَّبِيُّ صلى الله عليه وسلم يَتَخَوَّلُهُمْ بِالْمَوْعِظَةِ وَالْعِلْمِ كَىْ لاَ يَنْفِرُوا ; d'après Anas)",
+   "V2": "https://dorar.net/hadith/sharh/62 — الراوي : أنس بن مالك | المحدث : البخاري | المصدر : صحيح البخاري | الصفحة أو الرقم : 69 | خلاصة حكم المحدث : [صحيح] (fiche principale : Muslim 1734, même sens)",
+   "V3": "conforme (sous-agent, 01/11)",
+   "statut": "programmée 2026-11-01 15:00 id Metricool 412684646 (PENDING)"
   }
  ]
 }
