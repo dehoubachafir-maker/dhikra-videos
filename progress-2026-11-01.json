@@ -100,6 +100,25 @@
    "V3": "conforme (sous-agent, 01/11) — virgule « (la Kaaba), » déclarée comme adaptation",
    "statut": "programmée 2026-11-01 21:00 id Metricool 412684654 (PENDING)",
    "recitation": "al-Afasy everyayah 106001-106004"
+  },
+  {
+   "type": "vidéo éducative 2D (E3)",
+   "slug": "kawthar-video",
+   "reference": "Al-Kawthar (108), versets 1 à 3 + Sahîh Muslim 400 + tafsir d'as-Sa'dî",
+   "arabe": [
+    "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ﴿١﴾ فَصَلِّ لِرَبِّكَ وَانْحَرْ ﴿٢﴾ إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ ﴿٣﴾",
+    "فَإِنَّهُ نَهْرٌ وَعَدَنِيهِ رَبِّي عَزَّ وَجَلَّ عَلَيْهِ خَيْرٌ كَثِيرٌ"
+   ],
+   "traduction": "voir script_kawthar.md",
+   "direction": "Le fleuve de lumière (Scheherazade New Bold / Crimson Pro / Forum)",
+   "fichier": "Dhikra_2026-11-01_video_kawthar_sourate-108.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/v-2026-11-01/Dhikra_2026-11-01_video_kawthar_sourate-108.mp4",
+   "recitation": "al-Afasy everyayah 108001-108003",
+   "duree": "69,2 s",
+   "V1": "quranenc.com/fr/browse/french_hameedullah/108 ; sunnah.com/muslim:400a ; quran.ksu.edu.sa/tafseer/saadi/sura108-aya1..3",
+   "V2": "quran-api (uthmani + simple) ; quran.com/108 ; dorar.net/aqeeda/2236 (« أخرجه مسلم (400) »)",
+   "V3": "conforme (sous-agent, 01/11) après deux retouches de formulation (points 1 et 4)",
+   "statut": "programmée 2026-11-01 19:00 YouTube + TikTok id Metricool 412690511 (PENDING)"
   }
  ]
 }
