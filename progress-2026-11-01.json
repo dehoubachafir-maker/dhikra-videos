@@ -33,6 +33,23 @@
    "V2": "https://dorar.net/hadith/sharh/7256 — الراوي : عبدالله بن عمرو | المحدث : البخاري | المصدر : صحيح البخاري | الصفحة أو الرقم : 6484 (le n° 10 est cité sur la même page pour le même texte) | خلاصة حكم المحدث : [صحيح]",
    "V3": "conforme (sous-agent, 01/11)",
    "statut": "programmée 2026-11-01 11:00 id Metricool 412676928 (PENDING)"
+  },
+  {
+   "type": "verset animé",
+   "slug": "falaq",
+   "reference": "Al-Falaq (113), versets 1 à 5",
+   "arabe": [
+    "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾"
+   ],
+   "traduction": "Dis : « Je cherche protection auprès du Seigneur de l’aube naissante, contre le mal des êtres qu’Il a créés, contre le mal de l’obscurité quand elle s’approfondit, contre le mal de celles qui soufflent (les sorcières) sur les nœuds, et contre le mal de l’envieux quand il envie. »",
+   "direction": "La ruelle à l'aube naissante (médina chaulée de bleu, lanterne ajourée qui se balance, aube au bout de la ruelle) ; Noto Naskh Bold + Crimson Pro italique + Raleway",
+   "fichier": "Dhikra_2026-11-01_3_falaq_113-1-5.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-01/Dhikra_2026-11-01_3_falaq_113-1-5.mp4",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/113 (V1 : Hamidullah + arabe, versets 1-5, lus le 01/11/2026 via sous-agent ; note [1109] non reprise)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/113.json + ara-quransimple/113.json",
+   "V3": "conforme (sous-agent, 01/11)",
+   "statut": "programmée 2026-11-01 13:00 id Metricool 412684638 (PENDING)",
+   "recitation": "al-Afasy everyayah 113001-113005"
   }
  ]
 }
