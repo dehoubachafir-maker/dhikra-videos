@@ -83,6 +83,23 @@
    "V3": "conforme (sous-agent, 01/11)",
    "statut": "programmée 2026-11-01 17:00 id Metricool 412684652 (PENDING)",
    "recitation": "al-Afasy everyayah 110001-110003"
+  },
+  {
+   "type": "verset animé",
+   "slug": "quraysh",
+   "reference": "Quraysh (106), versets 1 à 4",
+   "arabe": [
+    "لِإِيلَافِ قُرَيْشٍ ﴿١﴾ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ ﴿٣﴾ الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ ﴿٤﴾"
+   ],
+   "traduction": "A cause de l’habitude des Quraysh… De leur habitude [concernant] les voyages d’hiver et d’été. Qu’ils adorent donc le Seigneur de cette Maison (la Kaaba), qui les a nourris contre la faim et rassurés de la crainte !",
+   "direction": "La caravane sous la lune (désert prune, chameaux bâtés sans cavalier, oasis de dattiers, puits) ; Lateef + Lora + Josefin Sans",
+   "fichier": "Dhikra_2026-11-01_6_quraysh_106-1-4.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-01/Dhikra_2026-11-01_6_quraysh_106-1-4.mp4",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/106 (V1 : Hamidullah + arabe, lus le 01/11/2026 via sous-agent)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/106.json + ara-quransimple/106.json",
+   "V3": "conforme (sous-agent, 01/11) — virgule « (la Kaaba), » déclarée comme adaptation",
+   "statut": "programmée 2026-11-01 21:00 id Metricool 412684654 (PENDING)",
+   "recitation": "al-Afasy everyayah 106001-106004"
   }
  ]
 }
