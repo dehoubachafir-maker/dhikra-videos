@@ -17,6 +17,22 @@
    "V3": "conforme (sous-agent, 01/11)",
    "statut": "programmée 2026-11-01 08:00 id Metricool 412676921 (PENDING)",
    "recitation": "al-Afasy everyayah 097001-097005"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "salam",
+   "reference": "Sahîh al-Bukhârî 10",
+   "arabe": [
+    "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ"
+   ],
+   "traduction": "« Le musulman est celui dont les musulmans sont à l’abri de la langue et de la main, et l’émigré est celui qui délaisse ce qu’Allah a interdit. »",
+   "direction": "Le patio de zellige (arc outrepassé, croissant, fontaine, lanterne, citronniers) ; Markazi Text + Alegreya italique + Forum",
+   "fichier": "Dhikra_2026-11-01_4_hadith_salam_bukhari-10.jpg (+ .png)",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-01/Dhikra_2026-11-01_4_hadith_salam_bukhari-10.jpg",
+   "V1": "https://sunnah.com/bukhari:10 (lu via https://sunnah.com/bukhari/2 ; Kitâb al-Îmân, bâb : الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ ; d'après 'Abdullah ibn 'Amr)",
+   "V2": "https://dorar.net/hadith/sharh/7256 — الراوي : عبدالله بن عمرو | المحدث : البخاري | المصدر : صحيح البخاري | الصفحة أو الرقم : 6484 (le n° 10 est cité sur la même page pour le même texte) | خلاصة حكم المحدث : [صحيح]",
+   "V3": "conforme (sous-agent, 01/11)",
+   "statut": "programmée 2026-11-01 11:00 id Metricool 412676928 (PENDING)"
   }
  ]
 }
