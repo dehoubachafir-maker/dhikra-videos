@@ -1,0 +1,22 @@
+{
+ "date": "2026-11-01",
+ "pieces": [
+  {
+   "type": "verset animé",
+   "slug": "qadr",
+   "reference": "Al-Qadr (97), versets 1 à 5",
+   "arabe": [
+    "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ ﴿٣﴾ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ ﴿٤﴾ سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ ﴿٥﴾"
+   ],
+   "traduction": "Nous l’avons certes, fait descendre (le Coran) pendant la nuit d’Al-Qadr (du Destin). Et qui te dira ce qu’est la nuit d’Al-Qadr ? La nuit d’Al-Qadr est meilleure que mille mois. Durant celle-ci descendent les Anges ainsi que l’Esprit, par permission de leur Seigneur pour tout ordre. Elle est paix et salut jusqu’à l’apparition de l’aube.",
+   "direction": "La Nuit du Destin, nébuleuse (ciel vert-bleu, nébuleuses cuivre/turquoise, filets de lumière qui descendent, aube finale) ; Amiri Bold + Fraunces italique + Tenor Sans",
+   "fichier": "Dhikra_2026-11-01_1_qadr_97-1-5.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-01/Dhikra_2026-11-01_1_qadr_97-1-5.mp4",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/97 (V1 : Hamidullah + arabe, versets 1-5, lus le 01/11/2026 via sous-agent ; note [1083] non reprise)",
+   "V2": "github.com/fawazahmed0/quran-api editions/ara-quranuthmanihaf/97.json + ara-quransimple/97.json",
+   "V3": "conforme (sous-agent, 01/11)",
+   "statut": "programmée 2026-11-01 08:00 id Metricool 412676921 (PENDING)",
+   "recitation": "al-Afasy everyayah 097001-097005"
+  }
+ ]
+}
