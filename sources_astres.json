@@ -1,0 +1,47 @@
+[
+ {
+  "slug": "astres-79",
+  "ref": "Al-An'âm (6), verset 79 (carte, récitation)",
+  "url1": "https://quran.com/fr/al-anam/78 (Hamidullah nommé, versets 74-79) ; quranenc.com/fr/browse/french_hameedullah/6/78 pour le verset voisin",
+  "url2": "quran-api ara-quransimple + ara-quranuthmanihaf /6.json",
+  "ar_source": "إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا ۖ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+  "ar_source_uthmani": "إِنِّي وَجَّهۡتُ وَجۡهِيَ لِلَّذِي فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ حَنِيفࣰ اۖ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ",
+  "ar_card": [
+   "إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًاۖ وَمَا أَنَا مِنَ الْمُشْرِكِينَ"
+  ],
+  "fr_source": "Je tourne mon visage exclusivement vers Celui qui a créé (à partir du néant) les cieux et la Terre; et je ne suis point du nombre des polythéistes",
+  "fr_card": "Je tourne mon visage exclusivement vers Celui qui a créé (à partir du néant) les cieux et la Terre; et je ne suis point du nombre des polythéistes"
+ },
+ {
+  "slug": "astres-76",
+  "ref": "Al-An'âm 6:76 (citations)",
+  "url1": "https://quran.com/fr/les-bestiaux/74-81",
+  "url2": "quran-api fra-muhammadhameedu/6.json",
+  "fr_source": "Quand la nuit l’enveloppa, il observa une étoile, et dit : \"Voilà mon Seigneur !\" Puis, lorsqu’elle disparut, il dit : \"Je n’aime pas les choses qui disparaissent",
+  "fr_card": "il observa une étoile, et dit : \"Voilà mon Seigneur !\" … Puis, lorsqu’elle disparut, il dit : \"Je n’aime pas les choses qui disparaissent"
+ },
+ {
+  "slug": "astres-77",
+  "ref": "Al-An'âm 6:77 (citations)",
+  "url1": "https://quran.com/fr/les-bestiaux/74-81",
+  "url2": "quran-api fra-muhammadhameedu/6.json",
+  "fr_source": "Lorsqu’ensuite il observa la lune se levant, il dit : \"Voilà mon Seigneur !\" Puis, lorsqu’elle disparut, il dit : \"Si mon Seigneur ne me guide pas, je serai certes du nombre des gens égarés",
+  "fr_card": "il observa la lune se levant, il dit : \"Voilà mon Seigneur !\" … Puis, lorsqu’elle disparut, il dit : \"Si mon Seigneur ne me guide pas, … je serai certes du nombre des gens égarés"
+ },
+ {
+  "slug": "astres-78",
+  "ref": "Al-An'âm 6:78 (citations)",
+  "url1": "https://quranenc.com/fr/browse/french_hameedullah/6/78",
+  "url2": "quran-api fra-muhammadhameedu/6.json",
+  "fr_source": "Lorsqu’ensuite il observa le soleil levant, il dit : \"Voilà mon Seigneur ! Celui-ci est plus grand\" Puis lorsque le soleil disparut, il dit : \"Ô mon peuple ! Je désavoue tout ce que vous associez à Allah",
+  "fr_card": "il dit : \"Voilà mon Seigneur ! Celui-ci est plus grand\" … Puis lorsque le soleil disparut, il dit : \"Ô mon peuple ! … Je désavoue tout ce que vous associez à Allah"
+ },
+ {
+  "slug": "astres-83",
+  "ref": "Al-An'âm 6:83 (citation)",
+  "url1": "https://quran.com/fr/les-bestiaux/83/tafsirs/tazkirul-quran-en (première phrase)",
+  "url2": "quran-api fra-muhammadhameedu/6.json",
+  "fr_source": "Tel est l’argument que Nous donnâmes à Abraham contre son peuple. Nous élevons en haut rang qui Nous voulons. Ton Seigneur est Sage et Omniscient",
+  "fr_card": "Tel est l’argument que Nous donnâmes à Abraham contre son peuple."
+ }
+]

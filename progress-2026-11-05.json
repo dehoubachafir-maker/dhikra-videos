@@ -100,6 +100,41 @@
    "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /88.json",
    "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
    "statut": "programmée 2026-11-06 13:00 id Metricool 417776712 (PENDING)"
+  },
+  {
+   "type": "verset anime",
+   "slug": "astrolabe",
+   "reference": "Ash-Shams (91), versets 1 à 4",
+   "arabe": [
+    "وَالشَّمْسِ وَضُحَاهَا ﴿١﴾ وَالْقَمَرِ إِذَا تَلَاهَا ﴿٢﴾ وَالنَّهَارِ إِذَا جَلَّاهَا ﴿٣﴾ وَاللَّيْلِ إِذَا يَغْشَاهَا ﴿٤﴾"
+   ],
+   "traduction": "Par le soleil et par sa clarté … Et par la lune quand elle le suit … Et par le jour quand il l’éclaire … Et par la nuit quand elle l’enveloppe",
+   "direction": "L'astrolabe de laiton ; Scheherazade Bold + Newsreader italique + Gilda Display",
+   "fichier": "Dhikra_2026-11-05_3_astrolabe_91-1-4.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-05/Dhikra_2026-11-05_3_astrolabe_91-1-4.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/091001.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/091002.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/091003.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/091004.mp3"
+   ],
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/91",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /91.json",
+   "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
+   "statut": "programmée 2026-11-06 15:00 id Metricool 417785387 (PENDING)"
+  },
+  {
+   "type": "vidéo éducative 2D (E2)",
+   "slug": "astres-video",
+   "reference": "Al-An'âm (6), versets 76 à 79 et 83 + tafsirs d'Ibn Kathîr et d'as-Sa'dî",
+   "direction": "La veille des astres ; Scheherazade Bold + Domine + Cinzel",
+   "fichier": "Dhikra_2026-11-05_video_ibrahim-astres_6-76-83.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/v-2026-11-05/Dhikra_2026-11-05_video_ibrahim-astres_6-76-83.mp4",
+   "recitation": "https://everyayah.com/data/Alafasy_128kbps/006079.mp3",
+   "V1": "quran.com/fr/al-anam/78 (Hamidullah), quran.com/fr/les-bestiaux/74-81, quranenc 6/78 ; tafsirs quran.com et quran.ksu.edu.sa",
+   "V2": "quran-api ara-quransimple, ara-quranuthmanihaf, fra-muhammadhameedu",
+   "V3": "deux contrôles : un écart corrigé (astre retiré des dernières phrases) puis conforme",
+   "statut": "programmée 2026-11-05 19:00 YouTube + TikTok id Metricool 417799543 (PENDING)"
   }
  ]
 }
