@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-05",
+ "pieces": [
+  {
+   "type": "verset anime",
+   "slug": "pluie",
+   "reference": "An-Naba' (78), versets 14 à 16",
+   "arabe": [
+    "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا ﴿١٤﴾ لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا ﴿١٥﴾ وَجَنَّاتٍ أَلْفَافًا ﴿١٦﴾"
+   ],
+   "traduction": "et fait descendre des nuées une eau abondante … pour faire pousser par elle grains et plantes … et jardins luxuriants",
+   "direction": "Pluie sur la terre sèche ; Mirza Bold + Cardo italique + Belleza",
+   "fichier": "Dhikra_2026-11-05_1_pluie_78-14-16.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-05/Dhikra_2026-11-05_1_pluie_78-14-16.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/078014.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/078015.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/078016.mp3"
+   ],
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/78",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /78.json",
+   "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
+   "statut": "programmée 2026-11-05 17:00 id Metricool 417776586 (PENDING)"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "phare",
+   "reference": "Sahîh Muslim 1893",
+   "arabe": [
+    "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ"
+   ],
+   "traduction": "Celui qui indique un bien a une récompense semblable à celle de celui qui l’accomplit.",
+   "direction": "Le phare sur la mer de lune ; Amiri Bold + Lustria + Gilda Display",
+   "fichier": "Dhikra_2026-11-05_5_hadith_phare_muslim-1893.jpg",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-05/Dhikra_2026-11-05_5_hadith_phare_muslim-1893.jpg",
+   "recitation": "aucune (image fixe)",
+   "V1": "https://sunnah.com/muslim:1893a",
+   "V2": "https://dorar.net/hadith/sharh/20340 (relevé V2 : fiche lue une fois — أبو مسعود عقبة بن عمرو | مسلم | صحيح مسلم | 1893 | صحيح ; titre du résultat : autre fiche Ibn Mas'ud/al-Albânî ; page en erreur lors de V3)",
+   "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
+   "statut": "programmée 2026-11-05 21:00 id Metricool 417776617 (PENDING)"
+  },
+  {
+   "type": "verset anime",
+   "slug": "calame",
+   "reference": "Al-'Alaq (96), versets 1 à 5",
+   "arabe": [
+    "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾ خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ ﴿٢﴾ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ ﴿٣﴾ الَّذِي عَلَّمَ بِالْقَلَمِ ﴿٤﴾ عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ ﴿٥﴾"
+   ],
+   "traduction": "Lis, au nom de ton Seigneur qui a créé … qui a créé l’homme d’une adhérence … Lis! Ton Seigneur est le Très Noble … qui a enseigné par la plume [le calame] … a enseigné à l’homme ce qu’il ne savait pas",
+   "direction": "Le calame et l'encre ; Amiri Bold + Vollkorn italique + Gilda Display",
+   "fichier": "Dhikra_2026-11-05_2_calame_96-1-5.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-05/Dhikra_2026-11-05_2_calame_96-1-5.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/096001.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/096002.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/096003.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/096004.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/096005.mp3"
+   ],
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/96",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /96.json",
+   "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
+   "statut": "programmée 2026-11-06 08:00 id Metricool 417776646 (PENDING)"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "miniature",
+   "reference": "Sahîh al-Bukhârî 5027",
+   "arabe": [
+    "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ"
+   ],
+   "traduction": "Le meilleur d’entre vous est celui qui apprend le Coran et l’enseigne.",
+   "direction": "Miniature persane ; Aref Ruqaa + Cormorant Upright + Tenor Sans",
+   "fichier": "Dhikra_2026-11-05_6_hadith_miniature_bukhari-5027.jpg",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-05/Dhikra_2026-11-05_6_hadith_miniature_bukhari-5027.jpg",
+   "recitation": "aucune (image fixe)",
+   "V1": "https://sunnah.com/bukhari:5027",
+   "V2": "https://dorar.net/h/ymYWjzdb (titre de résultat seulement : رواية عثمان بن عفان - محدث البخاري - مصدر صحيح البخاري ; numéro 5027 et grade non lus sur dorar)",
+   "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
+   "statut": "programmée 2026-11-06 11:00 id Metricool 417776679 (PENDING)"
+  },
+  {
+   "type": "verset anime",
+   "slug": "sommets",
+   "reference": "Al-Ghâshiya (88), versets 17 à 20",
+   "arabe": [
+    "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ ﴿١٧﴾ وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ ﴿١٨﴾ وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ ﴿١٩﴾ وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ ﴿٢٠﴾"
+   ],
+   "traduction": "Ne considèrent-ils donc pas les chameaux, comment ils ont été créés … et le ciel comment il est élevé … et les montagnes comment elles sont dressées … et la terre comment elle est nivelée",
+   "direction": "Les sommets dans la brume ; Noto Naskh + Alice + Rosario",
+   "fichier": "Dhikra_2026-11-05_4_sommets_88-17-20.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-05/Dhikra_2026-11-05_4_sommets_88-17-20.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/088017.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/088018.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/088019.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/088020.mp3"
+   ],
+   "V1": "https://quran.com/fr/al-ghashiyah/17-21",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /88.json",
+   "V3": "conforme (rapport du 5 novembre, sous-agent indépendant)",
+   "statut": "programmée 2026-11-06 13:00 id Metricool 417776712 (PENDING)"
+  }
+ ]
+}
