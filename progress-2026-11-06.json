@@ -113,7 +113,29 @@
    "V1": "https://quran.com/fr/taha/25-27 + https://quran.com/fr/taha/24-36 (20:28) + https://quranenc.com/pt/browse/french_hameedullah/20/25",
    "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /20.json",
    "V3": "conforme (rapport du 6 novembre, sous-agent indépendant)",
-   "statut": "poussée"
+   "statut": "programmée 2026-11-07 15:00 id Metricool 418557848 (PENDING)"
+  },
+  {
+   "type": "video educative 2D E4",
+   "slug": "nas",
+   "reference": "An-Nâs (114), versets 1 à 6",
+   "arabe": [
+    "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "مَلِكِ النَّاسِ",
+    "إِلَٰهِ النَّاسِ",
+    "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "مِنَ الْجِنَّةِ وَالنَّاسِ"
+   ],
+   "traduction": "Hamidullah (quranenc), découpée mot par mot",
+   "direction": "Le fil de la récitation ; Amiri Bold + Karla + Poppins",
+   "fichier": "Dhikra_2026-11-06_video_bien-prononcer-an-nas_114.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/v-2026-11-06/Dhikra_2026-11-06_video_bien-prononcer-an-nas_114.mp4",
+   "recitation": "everyayah Alafasy_128kbps 114001-114006",
+   "V1": "https://quranenc.com/fr/browse/french_hameedullah/114 ; islamweb fatwas 37382, 106438, 166191, 60507",
+   "V2": "quran-api ara-quransimple + ara-quranuthmanihaf /114.json",
+   "V3": "conforme après 2 corrections (glose du verset 6, titre) ; calage du surlignage calculé sur l énergie du son, non écouté",
+   "statut": "programmée 2026-11-06 19:00 id Metricool 418561264 (PENDING, YouTube + TikTok)"
   }
  ]
 }

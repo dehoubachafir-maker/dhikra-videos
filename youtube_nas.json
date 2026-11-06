@@ -1,0 +1,20 @@
+{
+ "slug": "nas",
+ "title": "Sais-tu bien prononcer la sourate An-Nâs ?",
+ "description": "",
+ "tags": [],
+ "category": "Éducation",
+ "privacy": "public",
+ "made_for_kids": false,
+ "registre": {
+  "format": "E4",
+  "textes": [
+   "An-Nâs 114:1-6"
+  ],
+  "sources": "voir script_nas.md et sources_nas.json",
+  "recitation": "Mishary Rashid al-Afasy, everyayah.com 114001-114006"
+ },
+ "file": "Dhikra_2026-11-06_video_bien-prononcer-an-nas_114.mp4",
+ "type": "short",
+ "language": "fr"
+}
