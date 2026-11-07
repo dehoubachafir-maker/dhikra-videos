@@ -110,6 +110,24 @@
    "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /29.json",
    "V3": "conforme (sous-agent indépendant, lot 2, 7 novembre)",
    "statut": "programmée 2026-11-08 15:00 id Metricool 419689335 (PENDING)"
+  },
+  {
+   "type": "video educative 2D E1",
+   "slug": "hijab",
+   "reference": "Sahîh Muslim 2822 (+ an-Nawawî, Sharh Muslim 17/165)",
+   "arabe": [
+    "حُفَّتِ الْجَنَّةُ بِالْمَكَارِهِ، وَحُفَّتِ النَّارُ بِالشَّهَوَاتِ"
+   ],
+   "traduction": "« Le Paradis est entouré de choses pénibles, et le Feu est entouré de passions. »",
+   "direction": "Les deux voiles ; Amiri Bold + Nunito + Yeseva One",
+   "fichier": "Dhikra_2026-11-07_video_hadith-paradis-entoure_muslim-2822.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/v-2026-11-07/Dhikra_2026-11-07_video_hadith-paradis-entoure_muslim-2822.mp4",
+   "duree": 74.9,
+   "recitation": "aucune (aucun verset à l'écran) ; ambiance vent très discrète",
+   "V1": "https://sunnah.com/muslim:2822 ; islamweb.net/amp/ar/fatwa/260407 (an-Nawawî)",
+   "V2": "https://dorar.net/aqeeda/2302 (أخرجه مسلم 2822 ; شرح مسلم 17/165) ; sounah.com/hadith/5600 (Fath)",
+   "V3": "conforme (sous-agent indépendant) ; nuances corrigées : p2a « selon toute apparence », p1/p2 reformulés, p2c ≥ 3 s",
+   "statut": "programmée 2026-11-07 19:00 YouTube + TikTok id Metricool 419701121 (PENDING) ; texte/titre TikTok = « Sahîh Muslim 2822 » (texte vide refusé : TikTok title is required)"
   }
  ]
 }
