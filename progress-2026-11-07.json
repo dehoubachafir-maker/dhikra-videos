@@ -72,6 +72,44 @@
    "V2": "https://dorar.net/alakhlaq/1648 (texte identique, note : رواه البخاري (6011)، ومسلم (2586) واللفظ له)",
    "V3": "conforme (sous-agent indépendant, lot 1, 7 novembre) ; V2 dorar : dorar.net/alakhlaq/1648 lu au V2 (note مسلم 2586), inaccessible au V3",
    "statut": "programmée 2026-11-08 11:00 id Metricool 419680361 (PENDING)"
+  },
+  {
+   "type": "verset anime",
+   "slug": "ble",
+   "reference": "An-Nahl (16), verset 18",
+   "arabe": [
+    "وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَاۗ إِنَّ اللَّهَ لَغَفُورٌ رَحِيمٌ ﴿١٨﴾"
+   ],
+   "traduction": "Et si vous essayiez de compter les bienfaits d'Allah, vous ne sauriez les dénombrer. En vérité, Allah est Pardonneur et Miséricordieux.",
+   "direction": "Le champ de blé au vent ; Noto Naskh Arabic Bold + Petrona italique + Josefin Sans",
+   "fichier": "Dhikra_2026-11-07_3_ble_16-18.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-07/Dhikra_2026-11-07_3_ble_16-18.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/016018.mp3"
+   ],
+   "V1": "https://quran.com/fr/les-abeilles/18",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /16.json",
+   "V3": "conforme (sous-agent indépendant, lot 2, 7 novembre)",
+   "statut": "programmée 2026-11-08 13:00 id Metricool 419689308 (PENDING)"
+  },
+  {
+   "type": "verset anime",
+   "slug": "sablier",
+   "reference": "Al-'Ankabût (29), verset 64",
+   "arabe": [
+    "وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُۚ لَوْ كَانُوا يَعْلَمُونَ ﴿٦٤﴾"
+   ],
+   "traduction": "Cette vie d’ici-bas n’est qu’amusement et jeu. Et la Demeure de l’au-delà est assurément la véritable vie. S’ils savaient !",
+   "direction": "Le sablier et les pétales ; Lateef + Literata italique + Montserrat",
+   "fichier": "Dhikra_2026-11-07_4_sablier_29-64.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-07/Dhikra_2026-11-07_4_sablier_29-64.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/029064.mp3"
+   ],
+   "V1": "https://quran.com/fr/laraignee/64",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /29.json",
+   "V3": "conforme (sous-agent indépendant, lot 2, 7 novembre)",
+   "statut": "programmée 2026-11-08 15:00 id Metricool 419689335 (PENDING)"
   }
  ]
 }
