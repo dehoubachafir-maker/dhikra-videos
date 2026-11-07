@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-07",
+ "pieces": [
+  {
+   "type": "verset anime",
+   "slug": "etourneaux",
+   "reference": "Al-Mulk (67), verset 19",
+   "arabe": [
+    "أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ ﴿١٩﴾"
+   ],
+   "traduction": "N’ont-ils pas vu les oiseaux au-dessus d’eux, déployant et repliant leurs ailes tour à tour ? Seul le Tout Miséricordieux les soutient. Car Il est sur toute chose, Clairvoyant.",
+   "direction": "Le vol des étourneaux au couchant ; Scheherazade New Bold + Bodoni Moda italique + Cinzel Decorative",
+   "fichier": "Dhikra_2026-11-07_1_etourneaux_67-19.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-07/Dhikra_2026-11-07_1_etourneaux_67-19.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/067019.mp3"
+   ],
+   "V1": "https://quran.com/fr/la-royaute/19",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /67.json",
+   "V3": "à faire",
+   "statut": "programmée 2026-11-07 17:00 id Metricool 419674103 (PENDING), légende = référence seule (titre TikTok obligatoire)"
+  }
+ ]
+}
