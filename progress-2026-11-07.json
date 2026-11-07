@@ -17,8 +17,61 @@
    ],
    "V1": "https://quran.com/fr/la-royaute/19",
    "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /67.json",
-   "V3": "à faire",
+   "V3": "conforme (sous-agent indépendant, lot 1, 7 novembre)",
    "statut": "programmée 2026-11-07 17:00 id Metricool 419674103 (PENDING), légende = référence seule (titre TikTok obligatoire)"
+  },
+  {
+   "type": "verset anime",
+   "slug": "desert",
+   "reference": "Al-Baqara (2), verset 186",
+   "arabe": [
+    "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ ﴿١٨٦﴾"
+   ],
+   "traduction": "Et quand Mes serviteurs t’interrogent sur Moi, alors Je suis tout proche: Je réponds à l’appel de celui qui M’invoque quand il M’invoque. Qu’ils répondent donc à Mon appel, et qu’ils croient en Moi, afin qu’ils soient bien guidés.",
+   "direction": "Le désert de nuit sous la Voie lactée ; Scheherazade New Medium + Gelasio italique + Cinzel",
+   "fichier": "Dhikra_2026-11-07_2_desert_2-186.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-07/Dhikra_2026-11-07_2_desert_2-186.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/002186.mp3"
+   ],
+   "V1": "https://quran.com/fr/la-vache/186 + https://quranenc.com/fr/browse/french_hameedullah/2/186",
+   "V2": "https://github.com/fawazahmed0/quran-api editions ara-quransimple + ara-quranuthmanihaf /2.json",
+   "V3": "conforme (sous-agent indépendant, lot 1, 7 novembre) ; l'écart signalé (référence absente) venait d'une image d'aperçu prise avant l'apparition de la référence — présente sur le MP4 final (vérifié)",
+   "statut": "programmée 2026-11-08 08:00 id Metricool 419680344 (PENDING)"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "balance",
+   "reference": "Sahîh al-Bukhârî 6682",
+   "arabe": [
+    "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ <br> سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ"
+   ],
+   "traduction": "Deux paroles légères sur la langue, lourdes dans la balance, aimées du Tout Miséricordieux : « Subhâna Llâhi wa bi-hamdihi, Subhâna Llâhi l-‘Azîm » (Gloire et pureté à Allah, et par Sa louange ; gloire et pureté à Allah, l’Immense).",
+   "direction": "Marbre noir et balance d'or (art déco) ; Amiri + Bellefair + Poiret One",
+   "fichier": "Dhikra_2026-11-07_5_hadith_balance_bukhari-6682.jpg",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-07/Dhikra_2026-11-07_5_hadith_balance_bukhari-6682.jpg",
+   "recitation": "aucune (image fixe)",
+   "V1": "https://sunnah.com/bukhari:6682 (même texte : bukhari:6406, 7563)",
+   "V2": "dorar.net — titre du résultat de recherche https://dorar.net/h/78xTy5F6 : « كَلِمَتانِ خَفيفَتانِ على اللِّسانِ، ثَقيلَتانِ في الميزانِ، حَبيبَتانِ إلى الرَّحمَنِ: سُبحانَ اللهِ وبحَمدِه، سُبحانَ اللهِ العَظيمِ - رواية: أبو هريرة - محدث: البخاري - مصدر: صحيح البخاري » (page en erreur)",
+   "V3": "conforme (sous-agent indépendant, lot 1, 7 novembre)",
+   "statut": "programmée 2026-11-07 21:00 id Metricool 419680175 (PENDING)"
+  },
+  {
+   "type": "hadith image fixe",
+   "slug": "racines",
+   "reference": "Sahîh Muslim 2586",
+   "arabe": [
+    "مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى"
+   ],
+   "traduction": "L’exemple des croyants, dans leur affection mutuelle, leur miséricorde et leur compassion les uns envers les autres, est celui d’un seul corps : lorsqu’un de ses membres souffre, tout le reste du corps y répond par l’insomnie et la fièvre.",
+   "direction": "La forêt et ses racines reliées ; Scheherazade New Bold + Noto Serif Display italique + Questrial",
+   "fichier": "Dhikra_2026-11-07_6_hadith_racines_muslim-2586.jpg",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-07/Dhikra_2026-11-07_6_hadith_racines_muslim-2586.jpg",
+   "recitation": "aucune (image fixe)",
+   "V1": "https://sunnah.com/muslim/45/84 (= muslim:2586a)",
+   "V2": "https://dorar.net/alakhlaq/1648 (texte identique, note : رواه البخاري (6011)، ومسلم (2586) واللفظ له)",
+   "V3": "conforme (sous-agent indépendant, lot 1, 7 novembre) ; V2 dorar : dorar.net/alakhlaq/1648 lu au V2 (note مسلم 2586), inaccessible au V3",
+   "statut": "programmée 2026-11-08 11:00 id Metricool 419680361 (PENDING)"
   }
  ]
 }
