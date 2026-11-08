@@ -34,6 +34,25 @@
    "V2": "https://dorar.net/h/N3oe6VCE (lu : الراوي عائشة أم المؤمنين | المحدث مسلم | المصدر صحيح مسلم | 2593 | [صحيح] ; التخريج : البخاري 6927، مسلم 2593)",
    "V3": "CONFORME (sous-agent indépendant, lot 1, 8 novembre)",
    "statut": "programmée 2026-11-08 20:00 id Metricool 420481389 (PENDING) ; légende = référence seule"
+  },
+  {
+   "type": "verset anime",
+   "slug": "feuille",
+   "reference": "Al-An'âm (6), verset 59",
+   "arabe": [
+    "وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَۚ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِۚ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُبِينٍ ﴿٥٩﴾"
+   ],
+   "traduction": "C’est Lui qui détient les clefs de l’Inconnaissable. Nul autre que Lui ne les connaît. Et Il connaît ce qui est dans la terre ferme, comme dans la mer. Et pas une feuille ne tombe qu’Il ne le sache. Et pas une graine dans les ténèbres de la terre, rien de frais ou de sec, qui ne soit consigné dans un Livre explicite",
+   "direction": "La forêt d'érables à l'automne ; Lateef + EB Garamond italique + Cinzel",
+   "fichier": "Dhikra_2026-11-08_1_automne_6-59.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-08/Dhikra_2026-11-08_1_automne_6-59.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/006059.mp3"
+   ],
+   "V1": "https://quran.com/fr/al-anam/59 (traducteur affiché : Muhammad Hamidullah)",
+   "V2": "https://alquran.cloud/surah/6 (lu par sous-agent, identique) + quran-api ara-quransimple / ara-quranuthmanihaf /6.json",
+   "V3": "CONFORME (sous-agent indépendant, lot 2, 8 novembre)",
+   "statut": "programmée 2026-11-09 10:00 id Metricool 420491237 (PENDING) ; légende = référence seule"
   }
  ]
 }
