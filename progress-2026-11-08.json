@@ -110,6 +110,24 @@
    ],
    "V1": "https://quran.com/fr/ali-imran/200 (texte de Hamidullah ; nom non affiché sur la page) + quran-api fra-muhammadhameedu/3.json identique",
    "V2": "https://alquran.cloud/surah/3 (lu par sous-agent, identique) + quran-api ara-quransimple / ara-quranuthmanihaf /3.json"
+  },
+  {
+   "type": "video educative 2D",
+   "slug": "ayyub",
+   "format": "E2",
+   "reference": "Ayyûb : Al-Anbiyâ' 21:83-84, Sâd 38:42-44 ; Ibn Kathîr, as-Sa'dî, islamweb 397927",
+   "direction": "La source dans la pierre ; Scheherazade New Bold + Cormorant Infant + Cinzel",
+   "fichier": "Dhikra_2026-11-08_video_ayyub_21-83.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/v-2026-11-08/Dhikra_2026-11-08_video_ayyub_21-83.mp4",
+   "duree": 69.7,
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/021083.mp3",
+    "https://everyayah.com/data/Alafasy_128kbps/038042.mp3"
+   ],
+   "V1": "quranenc Hamidullah (21:83-84, 38:41-42), quran.ksu.edu.sa Hamidullah (38:43-44), tafsirs as-Sa'dî/Ibn Kathîr (quran.ksu.edu.sa, quran.com)",
+   "V2": "quran-api ara-quransimple/uthmani ; quran.com",
+   "V3": "CONFORME pour les textes ; image corrigée (gerbe d'eau pouvant évoquer une silhouette → nappe basse) ; « (paix sur lui) » ajouté",
+   "statut": "programmée 2026-11-08 16:00 YouTube + TikTok id Metricool 420500421 (PENDING) ; texte vide refusé (« TikTok title is required ») → légende et titre TikTok = « Al-Anbiyâ' 21:83 » ; titre YouTube « Ayyûb : que dire à Allah quand tout fait mal ? », tags []"
   }
  ]
 }
