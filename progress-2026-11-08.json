@@ -53,6 +53,51 @@
    "V2": "https://alquran.cloud/surah/6 (lu par sous-agent, identique) + quran-api ara-quransimple / ara-quranuthmanihaf /6.json",
    "V3": "CONFORME (sous-agent indépendant, lot 2, 8 novembre)",
    "statut": "programmée 2026-11-09 10:00 id Metricool 420491237 (PENDING) ; légende = référence seule"
+  },
+  {
+   "type": "verset anime",
+   "slug": "strates",
+   "reference": "Fâtir (35), verset 27",
+   "arabe": [
+    "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَاۚ وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ ﴿٢٧﴾"
+   ],
+   "traduction": "N’as-tu pas vu que, du ciel, Allah fait descendre l’eau ? Puis nous en faisons sortir des fruits de couleurs différentes. Et dans les montagnes, il y a des sillons blancs et rouges, de couleurs différentes, et des roches excessivement noires",
+   "direction": "Les montagnes aux mille couleurs ; Amiri Bold + Josefin Sans",
+   "fichier": "Dhikra_2026-11-08_3_strates_35-27_nous.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-08/Dhikra_2026-11-08_3_strates_35-27_nous.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/035027.mp3"
+   ],
+   "V1": "https://quran.com/fr/fatir/27 (traducteur affiché : Muhammad Hamidullah)",
+   "V2": "https://alquran.cloud/surah/35 (lu par sous-agent, identique) + quran-api ara-quransimple / ara-quranuthmanihaf /35.json",
+   "V3": "CONFORME pour le fichier « _nous » (V3 lot 3 : « nous » minuscule exigé ; le fichier sans suffixe, avec « Nous », n'est PAS publié). Remarque : le signe de pause ۚ après أَلْوَانُهَا n'est pas rendu par Amiri Bold.",
+   "statut": "programmée 2026-11-09 12:00 id Metricool 420494134 (PENDING) ; légende = référence seule"
+  },
+  {
+   "type": "verset anime",
+   "slug": "amandier",
+   "reference": "Al-Furqân (25), verset 74",
+   "arabe": [
+    "وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا ﴿٧٤﴾"
+   ],
+   "traduction": "et ceux qui disent : “Notre Seigneur! Donne-nous, en nos épouses et nos descendants, la joie des yeux, et fais de nous un guide pour les pieux !”",
+   "direction": "L'amandier en fleurs et le nid ; Scheherazade New Medium + Lora italique + Montserrat",
+   "fichier": "Dhikra_2026-11-08_4_amandier_25-74.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-08/Dhikra_2026-11-08_4_amandier_25-74.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/025074.mp3"
+   ],
+   "V1": "https://quran.com/fr/le-discernement/74 (Hamidullah nommé dans « Lire avec le contexte »)",
+   "V2": "https://alquran.cloud/surah/25 (lu par sous-agent, identique) + quran-api ara-quransimple / ara-quranuthmanihaf /25.json",
+   "V3": "CONFORME (V3 lot 3)",
+   "statut": "programmée 2026-11-09 18:00 id Metricool 420494143 (PENDING) ; légende = référence seule"
+  },
+  {
+   "type": "verset anime",
+   "slug": "ribat",
+   "reference": "Âl 'Imrân (3), verset 200",
+   "statut": "poussée (v1 avec « réussissiez. » NON publiée) ; v2 corrigée « ! » en rendu",
+   "V3": "v1 NON CONFORME (ponctuation finale)"
   }
  ]
 }
