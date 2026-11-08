@@ -96,8 +96,20 @@
    "type": "verset anime",
    "slug": "ribat",
    "reference": "Âl 'Imrân (3), verset 200",
-   "statut": "poussée (v1 avec « réussissiez. » NON publiée) ; v2 corrigée « ! » en rendu",
-   "V3": "v1 NON CONFORME (ponctuation finale)"
+   "statut": "programmée 2026-11-09 14:00 id Metricool 420497085 (PENDING) ; légende = référence seule",
+   "V3": "v1 NON CONFORME (« réussissiez. ») ; v2 CONFORME (V3 lot 4)",
+   "arabe": [
+    "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ ﴿٢٠٠﴾"
+   ],
+   "traduction": "Ô les croyants! Soyez endurants. Incitez-vous à l’endurance. Luttez constamment (contre l’ennemi) et craignez Allah, afin que vous réussissiez!",
+   "direction": "Le ribât à l'aube ; Noto Naskh Arabic Bold + Playfair Display italique + Marcellus",
+   "fichier": "Dhikra_2026-11-08_2_ribat_3-200_v2.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-08/Dhikra_2026-11-08_2_ribat_3-200_v2.mp4",
+   "recitation": [
+    "https://everyayah.com/data/Alafasy_128kbps/003200.mp3"
+   ],
+   "V1": "https://quran.com/fr/ali-imran/200 (texte de Hamidullah ; nom non affiché sur la page) + quran-api fra-muhammadhameedu/3.json identique",
+   "V2": "https://alquran.cloud/surah/3 (lu par sous-agent, identique) + quran-api ara-quransimple / ara-quranuthmanihaf /3.json"
   }
  ]
 }
