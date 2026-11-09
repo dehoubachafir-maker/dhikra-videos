@@ -1,0 +1,21 @@
+{
+ "date": "2026-11-09",
+ "pieces": [
+  {
+   "slug": "navire",
+   "categorie": "H",
+   "sujet": "Le navire — Sahîh al-Bukhârî 2493",
+   "accroche": "Et si un seul trou coulait tout le navire ?",
+   "textes": [
+    "Bukhârî 2493"
+   ],
+   "direction": "Néons de nuit (rue/mer mouillée) ; Scheherazade New Bold + Outfit + Tilt Neon",
+   "fichier": "Dhikra_2026-11-09_2_hadith_navire_bukhari-2493.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-09/Dhikra_2026-11-09_2_hadith_navire_bukhari-2493.mp4",
+   "recitations": [],
+   "sources": "V1 sunnah.com/bukhari:2493 ; V2 dorar.net/alakhlaq/2806 note أخرجه البخاري (2493) (lue par sous-agent web, non relue par V3) ; explications islamweb fatwa 241405, article 141407",
+   "v3": "conforme après corrections (s3, p1 remplacé, p2, p3, croix retirées)",
+   "statut": "poussée"
+  }
+ ]
+}
