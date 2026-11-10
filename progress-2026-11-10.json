@@ -21,6 +21,24 @@
    "sources": "V1 quran.com/fr/le-recit/22-25 (Hamidullah) ; V2 quran-api ara-quransimple/uthmani + fra-muhammadhameedu ; as-Sa'dî quran.com/it/28:24/tafsirs/ar-tafseer-al-saddi ; check_texts OK",
    "v3": "CONFORME (sous-agent indépendant) ; retouches cosmétiques appliquées : flèche parasite retirée, étoile de fin agrandie, s1 +0,1 s",
    "statut": "programmée 2026-11-10 12:00 YouTube + TikTok id Metricool 422741322 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule"
+  },
+  {
+   "slug": "retour",
+   "categorie": "H",
+   "sujet": "« Il a su qu'il a un Seigneur » — Sahîh Muslim 2758 (péché répété et repentir)",
+   "accroche": "Tu as refait la même faute… encore une fois ?",
+   "textes": [
+    "Muslim 2758 (cartes A et B)",
+    "an-Nawawî, Sharh Muslim (via islamweb fatwas 24031, 217858)"
+   ],
+   "direction": "Affiche de voyage rétro ; Harmattan Bold + Archivo + Bebas Neue",
+   "fichier": "Dhikra_2026-11-10_2_hadith_retour_muslim-2758.mp4",
+   "duree": 64.3,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-10/Dhikra_2026-11-10_2_hadith_retour_muslim-2758.mp4",
+   "recitations": [],
+   "sources": "V1 sunnah.com/muslim:2758a ; V2 dorar.net/hadith/sharh/13386 (titre de résultat : محدث مسلم، صحيح مسلم ; page en erreur) + dorar 13382 (Bukhârî 7507 [صحيح]) ; an-Nawawî via islamweb fatwas 24031 et 217858 ; check_texts OK",
+   "v3": "1er passage NON CONFORME (temps de lecture carte A et c1 trop courts ; s2 extrait à marquer ; p3 à reformuler) → corrigé, re-rendu, 2e passage CONFORME",
+   "statut": "programmée 2026-11-10 18:00 YouTube + TikTok id Metricool 422745306 (PENDING, media static.metricool.com) ; texte vide refusé → référence seule"
   }
  ]
 }
