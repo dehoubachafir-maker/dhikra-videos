@@ -1,0 +1,27 @@
+{
+ "date": "2026-11-11",
+ "direction": "Gouache pastel, livre d'images ; Baloo Bhaijaan 2 SemiBold + Baloo 2 + Fredoka",
+ "pieces": [
+  {
+   "slug": "dawud",
+   "categorie": "P",
+   "sujet": "Dâwûd : les montagnes et les oiseaux glorifient avec lui, le fer amolli, les cottes de mailles — Saba' 34:10-11",
+   "accroche": "Des montagnes qui répètent les louanges d'Allah ?",
+   "textes": [
+    "Saba' 34:10 (carte, récitation al-Afasy)",
+    "Saba' 34:11 (citations)",
+    "tafsir d'at-Tabarî 34:10-11 (Qatâda)"
+   ],
+   "direction": "Gouache pastel, livre d'images",
+   "fichier": "Dhikra_2026-11-11_1_prophete_dawud.mp4",
+   "duree": 57.9,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-11/Dhikra_2026-11-11_1_prophete_dawud.mp4",
+   "recitations": [
+    "034010 (al-Afasy, 15,1 s, à 8,9 s)"
+   ],
+   "sources": "V1 quran.com/fr/saba/10-14 (Hamidullah) ; V2 quran-api ara-quransimple/uthmani + fra-muhammadhameedu ; at-Tabarî islamweb bk 50 ID 4038 ; check_texts OK",
+   "v3": "1er passage NON CONFORME (marges de texte, barre courbée = smiley, formule en p3) → corrigé ; 2e passage : 2 marges → corrigé ; 3e passage CONFORME",
+   "statut": "programmée 2026-11-11 12:00 YouTube + TikTok id Metricool 424023945 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule"
+  }
+ ]
+}
