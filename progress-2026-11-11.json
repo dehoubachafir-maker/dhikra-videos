@@ -22,6 +22,26 @@
    "sources": "V1 quran.com/fr/saba/10-14 (Hamidullah) ; V2 quran-api ara-quransimple/uthmani + fra-muhammadhameedu ; at-Tabarî islamweb bk 50 ID 4038 ; check_texts OK",
    "v3": "1er passage NON CONFORME (marges de texte, barre courbée = smiley, formule en p3) → corrigé ; 2e passage : 2 marges → corrigé ; 3e passage CONFORME",
    "statut": "programmée 2026-11-11 12:00 YouTube + TikTok id Metricool 424023945 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule"
+  },
+  {
+   "slug": "regret",
+   "categorie": "R",
+   "sujet": "« Si seulement j'avais… » — le regret qui tourne en boucle, At-Taghâbun 64:11",
+   "accroche": "« Si seulement j'avais… » Tu y repenses encore ?",
+   "textes": [
+    "At-Taghâbun 64:11 (carte, récitation al-Afasy)",
+    "tafsir d'Ibn Kathîr 64:11 (Ibn 'Abbâs)"
+   ],
+   "direction": "Gouache pastel, livre d'images",
+   "fichier": "Dhikra_2026-11-11_2_rappel_regret.mp4",
+   "duree": 60.8,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-11/Dhikra_2026-11-11_2_rappel_regret.mp4",
+   "recitations": [
+    "064011 (al-Afasy, 19,9 s, à 12,3 s)"
+   ],
+   "sources": "V1 quran.com/fr/at-taghabun/11 (Hamidullah) ; V2 quran-api ara-quransimple/uthmani + fra-muhammadhameedu ; Ibn Kathîr quran.com/fr/64:11/tafsirs/ar-tafsir-ibn-kathir ; check_texts OK",
+   "v3": "1er passage NON CONFORME (marges, p1 attribuait à Ibn 'Abbâs la glose d'Ibn Kathîr) → p1 = « par Son ordre » ; 2e passage : marge de s1 → corrigé ; 3e passage CONFORME",
+   "statut": "programmée 2026-11-11 18:00 YouTube + TikTok id Metricool 424031041 (PENDING, media static.metricool.com) ; référence seule (texte vide refusé le matin même pour la vidéo 1)"
   }
  ]
 }
