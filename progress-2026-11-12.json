@@ -19,6 +19,28 @@
    "V2": "dorar.net (titre fiche 6619 محدث مسلم ; aqeeda/2781 « ومسلم (2747) »)",
    "V3": "NON CONFORME (p1 paraphrase trop large, p2 comparaison ambiguë + barres, temps de lecture des cartes, « se repent à Lui », « Ô Allah », poussière) → corrigé, re-rendu, re-vérifié : CONFORME",
    "statut": "programmée 2026-11-12 12:00 YouTube + TikTok id Metricool 425289463 (PENDING, static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule"
+  },
+  {
+   "n": 2,
+   "categorie": "R",
+   "sujet": "La colère qui monte : la retenir, se réfugier auprès d'Allah",
+   "accroche": "La colère monte… Tu dis tout ?",
+   "textes": [
+    "Âl 'Imrân 3:134 (carte, récitation al-Afasy)",
+    "Ibn Kathîr 3:134 (via islamweb fatwa 95384)",
+    "Bukhârî 6114 (carte)",
+    "Bukhârî 6115 (carte)"
+   ],
+   "fichier": "Dhikra_2026-11-12_2_rappel_colere.mp4",
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-12/Dhikra_2026-11-12_2_rappel_colere.mp4",
+   "duree": 61.2,
+   "recitations": [
+    "003134 (21,9 s) https://everyayah.com/data/Alafasy_128kbps/003134.mp3"
+   ],
+   "V1": "quran.com/fr (Hamidullah) ; sunnah.com bukhari 6114, 6115, 6116",
+   "V2": "quran-api (quransimple/uthmani/Hamidullah) ; dorar.net (sharh 74038 / alakhlaq 2437 pour 6114, titre 14552 pour 6115, 151063 pour 6116)",
+   "V3": "NON CONFORME (temps de lecture, accroche 7 mots, pronom sans référent, écran 6116 à 14 mots, marge) → corrigé (écran 6116 retiré), re-vérifié : CONFORME ; ancre redessinée sans barre transversale",
+   "statut": "programmée 2026-11-12 18:00 YouTube + TikTok id Metricool 425300714 (PENDING, static.metricool.com) ; texte = référence seule (vide refusé à la vidéo 1 le même jour)"
   }
  ]
 }
