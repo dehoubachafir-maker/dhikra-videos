@@ -1,0 +1,32 @@
+{
+ "date": "2026-11-13",
+ "direction": "Linogravure trois encres sur papier de riz (Noto Kufi Arabic / Zilla Slab / Alfa Slab One ; papier de riz, indigo, vermillon, ocre, vert-de-gris)",
+ "videos": [
+  {
+   "n": 1,
+   "slug": "salih",
+   "categorie": "P",
+   "sujet": "Sâlih (paix sur lui) et la chamelle — Ash-Shams 91:11-14, Hûd 11:61, Ash-Shu'arâ' 26:149/155, Al-A'râf 7:79",
+   "accroche": "Un signe vivant d'Allah… et ils l'ont tué.",
+   "textes": [
+    "Ash-Shams 91:13 (carte, récitation al-Afasy)",
+    "Ash-Shams 91:14 (carte, récitation al-Afasy)",
+    "91:12, 11:61, 7:79 (citations)",
+    "26:149 (d'après)",
+    "Ibn Kathîr 26:155",
+    "Qatâda cité par Ibn Kathîr 91:14"
+   ],
+   "fichier": "Dhikra_2026-11-13_1_prophete_salih.mp4",
+   "duree": 64.2,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-13/Dhikra_2026-11-13_1_prophete_salih.mp4",
+   "recitations": [
+    "091013 (7,29 s, à 14,1 s) https://everyayah.com/data/Alafasy_128kbps/091013.mp3",
+    "091014 (10,95 s, à 32,6 s) https://everyayah.com/data/Alafasy_128kbps/091014.mp3"
+   ],
+   "V1": "quran.com/fr (Hamidullah) ash-shams/14, houd/61, al-araf/79, ash-shuara/155 + quranenc 91 ; Ibn Kathîr (quran.com/id/91:14 tafsir, ksu katheer 26:155)",
+   "V2": "quran-api ara-quransimple / ara-quranuthmanihaf / fra-muhammadhameedu ; as-Sa'dî (ksu) ; check_texts OK",
+   "V3": "1er passage NON CONFORME (marges de l'accroche, « d'après » manquant sur c4 et p1, étoile de fin sur le texte) → corrigé, re-rendu ; 2e passage CONFORME",
+   "statut": "programmée 2026-11-13 12:00 YouTube + TikTok id Metricool 426564975 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule « Ash-Shams 91:13-14 »"
+  }
+ ]
+}
