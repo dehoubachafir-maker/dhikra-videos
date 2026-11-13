@@ -27,6 +27,27 @@
    "V2": "quran-api ara-quransimple / ara-quranuthmanihaf / fra-muhammadhameedu ; as-Sa'dî (ksu) ; check_texts OK",
    "V3": "1er passage NON CONFORME (marges de l'accroche, « d'après » manquant sur c4 et p1, étoile de fin sur le texte) → corrigé, re-rendu ; 2e passage CONFORME",
    "statut": "programmée 2026-11-13 12:00 YouTube + TikTok id Metricool 426564975 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule « Ash-Shams 91:13-14 »"
+  },
+  {
+   "n": 2,
+   "slug": "musc",
+   "categorie": "H",
+   "sujet": "Le porteur de musc et le souffleur de forge — Sahîh al-Bukhârî 5534 (Muslim 2628)",
+   "accroche": "Tes amis laissent une odeur sur toi. Laquelle ?",
+   "textes": [
+    "Bukhârî 5534 (cartes A et B)",
+    "Ibn Hajar, Fath al-Bârî",
+    "an-Nawawî, Sharh Muslim (d'après, via islamweb fatwa 150111)",
+    "Ibn Kathîr 43:67 (via islamweb fatwa 182539)"
+   ],
+   "fichier": "Dhikra_2026-11-13_2_hadith_musc_bukhari-5534.mp4",
+   "duree": 61.47,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-13/Dhikra_2026-11-13_2_hadith_musc_bukhari-5534.mp4",
+   "recitations": [],
+   "V1": "sunnah.com (bukhari:5534 anglais ; arabe via la page de recherche sunnah.com, résultat Sahih al-Bukhari 5534)",
+   "V2": "dorar.net/hadith/sharh/26083 (أبو موسى الأشعري · البخاري · صحيح البخاري · 5534 · [صحيح] lu par le sous-agent V1 ; page en erreur au V3, titre de résultat concordant) ; Fath al-Bârî islamweb 52/3851 ; check_texts OK",
+   "V3": "1er passage NON CONFORME (p1 12 mots et « Il » ambigu, p2 11 mots à 0,02 s près, r1 sur 3 lignes, étoile de fin) → corrigé, re-rendu ; 2e passage CONFORME",
+   "statut": "programmée 2026-11-13 18:00 YouTube + TikTok id Metricool 426569226 (PENDING, media static.metricool.com) ; texte = référence seule « Sahîh al-Bukhârî 5534 »"
   }
  ]
 }
