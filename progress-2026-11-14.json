@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-14",
+ "direction": "Ombres chinoises de décors (Noto Sans Arabic SemiBold / Brygada 1918 + Almendra SC ; safran, garance, encre, sarcelle, ivoire)",
+ "videos": [
+  {
+   "n": 1,
+   "slug": "kaaba",
+   "categorie": "P",
+   "sujet": "Ibrâhîm et Ismâ'îl (paix sur eux) élèvent les assises de la Maison — Al-Baqara 2:127, Sahîh al-Bukhârî 3364, Ibn Kathîr 2:127 (Wuhayb ibn al-Ward)",
+   "accroche": "Bâtir la Maison d'Allah… et demander qu'Il l'accepte.",
+   "textes": [
+    "Al-Baqara 2:127 (carte, récitation al-Afasy)",
+    "Bukhârî 3364 (récit : retour d'Ibrâhîm, ordre de bâtir, pierres, la pierre où il monte, invocation)",
+    "Ibn Kathîr 2:127 (d'après)",
+    "Wuhayb ibn al-Ward rapporté par Ibn Abî Hâtim, cité par Ibn Kathîr"
+   ],
+   "direction": "Ombres chinoises de décors (Noto Sans Arabic SemiBold / Brygada 1918 + Almendra SC ; safran, garance, encre, sarcelle, ivoire)",
+   "fichier": "Dhikra_2026-11-14_1_prophete_ibrahim_kaaba.mp4",
+   "duree": 64.0,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-14/Dhikra_2026-11-14_1_prophete_ibrahim_kaaba.mp4",
+   "recitations": [
+    "002127 (17,61 s, à 23,5 s) https://everyayah.com/data/Alafasy_128kbps/002127.mp3"
+   ],
+   "V1": "quran.com/fr/la-vache/127 (Hamidullah) ; sunnah.com/bukhari:3364 (arabe + anglais) ; quran.com tafsir Ibn Kathîr 2:127",
+   "V2": "quran-api (quransimple, uthmani, fra-muhammadhameedu) ; titre de résultat dorar.net/hadith/sharh/1884 (page en erreur) ; check_texts OK",
+   "V3": "1er passage NON CONFORME (« immense » ajouté, ordre récitait/pleurait, « d'après » manquant s1/s3/s4, s5 2,9 s, sources contre le filet) → corrigé, re-rendu ; 2e passage CONFORME",
+   "statut": "programmée 2026-11-14 12:00 YouTube + TikTok id Metricool 427755903 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule « Al-Baqara 2:127 »"
+  },
+  {
+   "n": 2,
+   "slug": "hamm",
+   "categorie": "R",
+   "sujet": "Le souci de demain et la tristesse d'hier — Sahîh al-Bukhârî 6369 (extrait), at-Tîbî (Mirqât al-Mafâtîh), Yûnus 10:62-63, Ibn Kathîr et at-Tabarî",
+   "accroche": "Hier te pèse. Demain t'inquiète ?",
+   "textes": [
+    "Bukhârî 6369 (extrait en français)",
+    "at-Tîbî cité dans Mirqât al-Mafâtîh (d'après)",
+    "Yûnus 10:62 (carte, récitation al-Afasy)",
+    "Ibn Kathîr et at-Tabarî 10:62 (d'après)",
+    "Yûnus 10:63 (citation)"
+   ],
+   "direction": "Ombres chinoises de décors (Noto Sans Arabic SemiBold / Brygada 1918 + Almendra SC ; safran, garance, encre, sarcelle, ivoire)",
+   "fichier": "Dhikra_2026-11-14_2_rappel_souci_tristesse.mp4",
+   "duree": 63.7,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-14/Dhikra_2026-11-14_2_rappel_souci_tristesse.mp4",
+   "recitations": [
+    "010062 (14,99 s, à 26,7 s) https://everyayah.com/data/Alafasy_128kbps/010062.mp3"
+   ],
+   "V1": "quran.com/fr/jonas/62 ; sunnah.com/bukhari:6369 (anglais ; arabe non renvoyé) ; islamweb Mirqât al-Mafâtîh 79/4877 ; quran.com tafsirs Ibn Kathîr (en) et at-Tabarî (ar) 10:62",
+   "V2": "quran-api ; titre de résultat dorar.net/hadith/sharh/1034 (page en erreur) ; islamweb article 224086 ; check_texts OK",
+   "V3": "1er passage NON CONFORME (p1 13 mots / 4 s ; médaillons + flèches lisibles comme un visage) → corrigé, re-rendu ; 2e passage CONFORME",
+   "statut": "programmée 2026-11-14 18:00 YouTube + TikTok id Metricool 427755969 (PENDING, media static.metricool.com) ; texte vide refusé → référence seule « Yûnus 10:62 »"
+  }
+ ]
+}
