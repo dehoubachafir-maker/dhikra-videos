@@ -1,0 +1,27 @@
+{
+ "date": "2026-11-15",
+ "direction": "Isométrique pop (IBM Plex Sans Arabic SemiBold / Lexend + Rubik ; violet électrique, corail, jaune citron, menthe, crème)",
+ "videos": [
+  {
+   "n": 1,
+   "slug": "hasana",
+   "categorie": "H",
+   "sujet": "La bonne action projetée, faite ; la mauvaise action projetée, laissée, faite — hadith qudsî, Sahîh Muslim 131 (= Bukhârî 6491, Ibn 'Abbâs) ; Ibn Hajar, Fath al-Bârî",
+   "accroche": "Tu as voulu faire le bien… sans pouvoir le faire ?",
+   "textes": [
+    "Muslim 131 (cartes A, B, C : arabe + traduction)",
+    "compteurs 1 / × 10 / × 700 et plus… / 1",
+    "Ibn Hajar, Fath al-Bârî sur Bukhârî 6491 (p1 al-hamm, p2 « complète », p3 laissée pour Allah) — d'après"
+   ],
+   "direction": "Isométrique pop (IBM Plex Sans Arabic SemiBold / Lexend + Rubik ; violet électrique, corail, jaune citron, menthe, crème)",
+   "fichier": "Dhikra_2026-11-15_1_hadith_intention_muslim-131.mp4",
+   "duree": 62.7,
+   "lien": "https://raw.githubusercontent.com/dehoubachafir-maker/dhikra-videos/img-2026-11-15/Dhikra_2026-11-15_1_hadith_intention_muslim-131.mp4",
+   "recitations": [],
+   "V1": "sunnah.com/muslim:131 (arabe + anglais, Sahih Muslim 131a) ; sunnah.com/bukhari:6491 (anglais) ; Fath al-Bârî islamweb 52/11889",
+   "V2": "titre de résultat dorar.net/hadith/sharh/10310 (رواية: عبدالله بن عباس - محدث: مسلم - مصدر: صحيح مسلم ; page en erreur) ; check_texts OK",
+   "V3": "1er passage NON CONFORME (compteurs absents du script et trop courts, ronds décoratifs formant un visage, cube sombre = Ka'ba, filet trop proche) → corrigé ; 2e NON CONFORME (temps de lecture mesuré dans le MP4 : le fondu sortant mangeait 0,6 s) → durées refaites, écran s1 supprimé ; 3e passage CONFORME (mesures image par image)",
+   "statut": "programmée 2026-11-15 12:00 YouTube + TikTok id Metricool 428626382 (PENDING, media static.metricool.com) ; texte vide refusé (TikTok title is required) → référence seule « Sahîh Muslim 131 »"
+  }
+ ]
+}
